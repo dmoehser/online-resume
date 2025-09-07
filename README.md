@@ -48,10 +48,6 @@ View source code: [https://github.com/dmoehser/online-resume](https://github.com
 
 *Note: This project is currently only available locally. To view it, clone the repository and open `index.html` in your browser.*
 
-## How to View
-
-Just open the `index.html` file in any web browser. It's a simple static website.
-
 ## What's Included
 
 - Personal information and work experience
